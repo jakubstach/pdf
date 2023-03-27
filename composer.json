@@ -1,5 +1,5 @@
 {
-  "name": "contributte/pdf",
+  "name": "jakubstach/pdf",
   "description": "Pdf response extension for Nette Framework",
   "keywords": [
     "nette",
@@ -33,7 +33,7 @@
     }
   ],
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.1 || ^8.0",
     "mpdf/mpdf": "^8.0",
     "nette/application": "~3.0",
     "nette/http": "~3.0"
